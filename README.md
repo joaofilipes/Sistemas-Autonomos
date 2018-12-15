@@ -6,8 +6,6 @@ Nesse relatório será descrito o passo a passo para a criação de um ambiente 
 
 1.1. Baixar o manual de operação dos switches, antena, módulos IP e câmeras
 
-Os manuais foram adquiridos diretamente dos sites dos fabricantes:
-Switches: 
 
 1.2. Energizar corretamente cada equipamento
 
