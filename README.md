@@ -1,7 +1,5 @@
 # Car Behavioral Clonning
 
-Nesse relatório será descrito o passo a passo para a criação de um ambiente de trabalho via interface ROS, utilizando o Terminal do sistema operacional Ubuntu Linux 16.
-
 1. Rede Wireless + Câmeras
 
 1.1. Baixar o manual de operação dos switches, antena, módulos IP e câmeras
