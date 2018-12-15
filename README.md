@@ -59,9 +59,3 @@ Switches:
 
 3.2. Atuar no Jaguar através da rede neural
 
-
-
-3.3. Relatar passo a passo do desenvolvimento
-
-
-
